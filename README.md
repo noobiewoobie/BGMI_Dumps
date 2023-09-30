@@ -1,1 +1,1 @@
-# BGMI_Dumps
+# SDK Dumps of BGMI
